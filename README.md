@@ -10,7 +10,13 @@ Ahmed Tarek
 	git clone https://github.com/mohsenuss91/tarek360.github.io
 
 ```
+ 
+ - Install requirements.txt
+```
+	pip install -r requirements.txt
 
+```
+ 
  - Install [Flask](https://github.com/pallets/flask)
 
 ```
